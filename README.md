@@ -4,10 +4,6 @@ Youtube Link to App walkthrough and demo - https://www.youtube.com/watch?v=FYX_G
 
 This repo contains a Rest API that we built to interact with our front end. It contains the models to interact with the database and the routes with the endpoints that the app uses.
 
-## Deployment
-
-Life Care has been deployed [here](https://life-care.onrender.com/) on Render. Go check it out!
-
 ## Installation
 
 Install dependencies with npm
@@ -31,12 +27,3 @@ To run the server
 ## API Reference
 
 ![App Screenshot](https://i.imgur.com/ugs8t8z.png)
-
-## Authors
-
-- [Steve](https://github.com/Hacktinium)
-- [Ash](https://github.com/AshrafAKRahman)
-- [Oli](https://github.com/OliLoftun)
-- [Robin](https://github.com/Robin-LT)
-- [Damian](https://github.com/CodingDonk)
-- [Fabbi](https://github.com/fabbihas)
